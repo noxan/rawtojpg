@@ -11,7 +11,7 @@ categories = ["command-line-utilities"]
 license = "MIT"
 
 [lib]
-path = "src/main.rs"
+path = "src/lib.rs"
 
 [dependencies]
 anyhow = "1.0.86"
